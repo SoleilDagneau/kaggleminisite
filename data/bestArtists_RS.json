@@ -1,0 +1,510 @@
+[
+ {
+   "RollingStoneMagazineRank": 1,
+   "Artist": "The Beatles",
+   "MainGrammyawards": 2,
+   "MainGrammyNominations": 10,
+   "TotalAwards": 14,
+   "TotalNominations": 29,
+   "UKnumber1's": 17,
+   "ImageUrl": "/beatles.jpg"
+},
+ {
+   "RollingStoneMagazineRank": 2,
+   "Artist": "Bob Dylan",
+   "MainGrammyawards": 1,
+   "MainGrammyNominations": 4,
+   "TotalAwards": 10,
+   "TotalNominations": 38,
+   "UKnumber1's": 1,
+   "ImageUrl": "/bobdylan.jpg"
+},
+ {
+   "RollingStoneMagazineRank": 3,
+   "Artist": "Elvis Presley",
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 2,
+   "TotalAwards": 2,
+   "TotalNominations": 4,
+   "UKnumber1's": 21,
+   "ImageUrl": "/elvis.jpg"
+},
+ {
+   "RollingStoneMagazineRank": 4,
+   "Artist": "The Rolling Stones",
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 1,
+   "TotalAwards": 4,
+   "TotalNominations": 14,
+   "UKnumber1's": 8,
+   "ImageUrl": "/rolling.jpg"
+},
+ 
+ {
+   "RollingStoneMagazineRank": 6,
+   "Artist": "Jimi Hendrix",
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 0,
+   "TotalNominations": 1,
+   "UKnumber1's": 0,
+   "ImageUrl": "/jimi.jpg"
+
+},
+{
+   "RollingStoneMagazineRank": 11,
+   "Artist": "Bob Marley",
+   "Racial": {
+     "Ethnicgroup": "Black/African"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 0,
+   "TotalNominations": 0,
+   "UKnumber1's": 0,
+   "ImageUrl": "/bobmarley.jpg"
+ },
+ {
+   "RollingStoneMagazineRank": 14,
+   "Artist": "Led Zeppelin",
+   "Racial": {
+     "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 1,
+   "TotalNominations": 3,
+   "UKnumber1's": 0,
+   "ImageUrl": "/led.jpg"
+ },
+ {
+   "RollingStoneMagazineRank": 19,
+   "Artist": "Velvet Underground",
+   "Racial": {
+     "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 0,
+   "TotalNominations": 0,
+   "UKnumber1's": 0,
+   "ImageUrl": "/velv.jpg"
+ },
+ {
+   "RollingStoneMagazineRank": 22,
+   "Artist": "U2",
+   "Racial": {
+     "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 6,
+   "MainGrammyNominations": 11,
+   "TotalAwards": 22,
+   "TotalNominations": 46,
+   "UKnumber1's": 7,
+   "ImageUrl": "/u2.jpg"
+ },
+ {
+   "RollingStoneMagazineRank": 26,
+   "Artist": "The Ramones",
+   "Racial": {
+     "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 0,
+   "TotalNominations": 0,
+   "UKnumber1's": 0,
+   "ImageUrl": "/ramones.jpg"
+ },
+ {
+   "RollingStoneMagazineRank": 27,
+   "Artist": "Prince",
+   "Racial": {
+     "Ethnicgroup": "Black/African"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 3,
+   "TotalAwards": 7,
+   "TotalNominations": 38,
+   "UKnumber1's": 0,
+   "ImageUrl": "/prince.jpg"
+ },
+ {
+   "RollingStoneMagazineRank": 28,
+   "Artist": "The Clash",
+   "Racial": {
+      "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 1,
+   "TotalNominations": 1,
+   "UKnumber1's": 1,
+   "ImageUrl": "/theclash.jpg"
+},
+{
+   "RollingStoneMagazineRank": 29,
+   "Artist": "The Who",
+   "Racial": {
+      "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 0,
+   "TotalNominations": 2,
+   "UKnumber1's": 0,
+   "ImageUrl": "/thewho.jpg"
+},
+{
+   "RollingStoneMagazineRank": 30,
+   "Artist": "Nirvana",
+   "Racial": {
+      "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 1,
+   "TotalNominations": 6,
+   "UKnumber1's": 0,
+   "ImageUrl": "/nirvana.jpg"
+},
+{
+   "RollingStoneMagazineRank": 31,
+   "Artist": "Johnny Cash",
+   "Racial": {
+      "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 2,
+   "TotalAwards": 13,
+   "TotalNominations": 35,
+   "UKnumber1's": 0,
+   "ImageUrl": "/johnnycash.jpg"
+},
+{
+   "RollingStoneMagazineRank": 34,
+   "Artist": "Neil Young",
+   "Racial": {
+      "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 3,
+   "TotalAwards": 2,
+   "TotalNominations": 27,
+   "UKnumber1's": 0,
+   "ImageUrl": "/neil.jpg"
+},
+{
+   "RollingStoneMagazineRank": 35,
+   "Artist": "Michael Jackson",
+   "Racial": {
+      "Ethnicgroup": "Black/African"
+   },
+   "MainGrammyawards": 3,
+   "MainGrammyNominations": 8,
+   "TotalAwards": 13,
+   "TotalNominations": 38,
+   "UKnumber1's": 7,
+   "ImageUrl": "/michaelj.jpg"
+},
+{
+   "RollingStoneMagazineRank": 36,
+   "Artist": "Madonna",
+   "Racial": {
+      "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 3,
+   "TotalAwards": 7,
+   "TotalNominations": 28,
+   "UKnumber1's": 13,
+   "ImageUrl": "/madonna.jpg"
+},
+{
+   "RollingStoneMagazineRank": 38,
+   "Artist": "John Lennon",
+   "Racial": {
+      "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 1,
+   "MainGrammyNominations": 2,
+   "TotalAwards": 1,
+   "TotalNominations": 4,
+   "UKnumber1's": 3,
+   "ImageUrl": "/johnlennon.jpg"
+},
+{
+   "RollingStoneMagazineRank": 39,
+   "Artist": "David Bowie",
+   "Racial": {
+   "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 1,
+   "TotalAwards": 5,
+   "TotalNominations": 19,
+   "UKnumber1's": 5,
+   "ImageUrl": "/davidbowie.jpg"
+   },
+   
+   {
+   "RollingStoneMagazineRank": 41,
+   "Artist": "The Doors",
+   "Racial": {
+   "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 0,
+   "TotalNominations": 0,
+   "UKnumber1's": 0,
+   "ImageUrl": "/thedoors.jpg"
+   },
+   
+   {
+   "RollingStoneMagazineRank": 42,
+   "Artist": "Van Morrison",
+   "Racial": {
+   "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 2,
+   "TotalNominations": 7,
+   "UKnumber1's": 0,
+   "ImageUrl": "/van.jpg"
+   },
+   
+   {
+   "RollingStoneMagazineRank": 46,
+   "Artist": "Janis Joplin",
+   "Racial": {
+   "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 0,
+   "TotalNominations": 2,
+   "UKnumber1's": 0,
+   "ImageUrl": "/janis.jpg"
+   },
+   
+   {
+   "RollingStoneMagazineRank": 47,
+   "Artist": "Patti Smith",
+   "Racial": {
+   "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 0,
+   "TotalNominations": 4,
+   "UKnumber1's": 0,
+   "ImageUrl": "/patti.jpg"
+   },
+   
+   {
+   "RollingStoneMagazineRank": 49,
+   "Artist": "Elton John",
+   "Racial": {
+   "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 7,
+   "TotalAwards": 5,
+   "TotalNominations": 34,
+   "UKnumber1's": 7,
+   "ImageUrl": "/elton.jpg"
+   },
+   
+   {
+   "RollingStoneMagazineRank": 51,
+   "Artist": "Pink Floyd",
+   "Racial": {
+   "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 1,
+   "TotalAwards": 1,
+   "TotalNominations": 4,
+   "UKnumber1's": 1,
+   "ImageUrl": "/pink.jpg"
+   },
+   
+   {
+   "RollingStoneMagazineRank": 52,
+   "Artist": "Queen",
+   "Racial": {
+   "Ethnicgroup": "EastIndianandWhite/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 0,
+   "TotalNominations": 4,
+   "UKnumber1's": 6,
+   "ImageUrl": "/queen.jpg"
+},
+{
+   "RollingStoneMagazineRank": 55,
+   "Artist": "Eric Clapton",
+   "Racial": {
+      "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 5,
+   "MainGrammyNominations": 6,
+   "TotalAwards": 17,
+   "TotalNominations": 37,
+   "UKnumber1's": 0,
+   "ImageUrl": "/ericclapton.jpg"
+ },
+
+ {
+   "RollingStoneMagazineRank": 57,
+   "Artist": "Grateful Dead",
+   "Racial": {
+      "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 0,
+   "TotalNominations": 0,
+   "UKnumber1's": 0,
+   "ImageUrl": "/grateful.png"
+ },
+
+ {
+   "RollingStoneMagazineRank": 59,
+   "Artist": "Aerosmith",
+   "Racial": {
+      "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 4,
+   "TotalNominations": 14,
+   "UKnumber1's": 0,
+   "ImageUrl": "/aerosmith.jpg"
+ },
+ {
+   "RollingStoneMagazineRank": 60,
+   "Artist": "Sex Pistols",
+   "Racial": {
+      "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 0,
+   "TotalNominations": 0,
+   "UKnumber1's": 0,
+   "ImageUrl": "/sexpistol.jpg"
+ },
+ {
+   "RollingStoneMagazineRank": 61,
+   "Artist": "Metallica",
+   "Racial": {
+      "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 8,
+   "TotalNominations": 18,
+   "UKnumber1's": 0,
+   "ImageUrl": "/metallica.jpg"
+ },
+
+ {
+   "RollingStoneMagazineRank": 72,
+   "Artist": "AC/DC",
+   "Racial": {
+      "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 1,
+   "TotalNominations": 7,
+   "UKnumber1's": 0,
+   "ImageUrl": "/acdc.jpg"
+ },
+ {
+   "RollingStoneMagazineRank": 73,
+   "Artist": "Radiohead",
+   "Racial": {
+      "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 3,
+   "TotalAwards": 3,
+   "TotalNominations": 18,
+   "UKnumber1's": 0,
+   "ImageUrl": "/radiohead.jpg"
+ },
+
+ {
+   "RollingStoneMagazineRank": 77,
+   "Artist": "Beastie Boys",
+   "Racial": {
+      "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 3,
+   "TotalNominations": 10,
+   "UKnumber1's": 0,
+   "ImageUrl": "/beastie.jpg"
+},
+{
+   "RollingStoneMagazineRank": 86,
+   "Artist": "2Pac",
+   "Racial": {
+   "Ethnicgroup": "Black/African"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 0,
+   "TotalNominations": 6,
+   "UKnumber1's": 1,
+   "ImageUrl": "/2pac.jpg"
+   },
+   
+   {
+   "RollingStoneMagazineRank": 91,
+   "Artist": "Tom Petty",
+   "Racial": {
+   "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 2,
+   "TotalAwards": 3,
+   "TotalNominations": 18,
+   "UKnumber1's": 0,
+   "ImageUrl": "/tompetty.jpg"
+   },
+   
+   {
+   "RollingStoneMagazineRank": 92,
+   "Artist": "Guns N' Roses",
+   "Racial": {
+   "Ethnicgroup": "White/EuropeanandMixed"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 0,
+   "TotalNominations": 3,
+   "UKnumber1's": 0,
+   "ImageUrl": "/guns.jpg"
+   },
+   
+   {
+   "RollingStoneMagazineRank": 95,
+   "Artist": "Lynyrd Skynrd",
+   "Racial": {
+   "Ethnicgroup": "White/European"
+   },
+   "MainGrammyawards": 0,
+   "MainGrammyNominations": 0,
+   "TotalAwards": 0,
+   "TotalNominations": 0,
+   "UKnumber1's": 0,
+   "ImageUrl": "/lynyrd.jpg"
+   }
+]
