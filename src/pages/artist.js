@@ -21,7 +21,7 @@ export default function Artist() {
       <h1 className={styles.title}>{artistData.Artist}</h1>
       <img src={artistData.ImageUrl} alt={artistData.Artist} className={styles.bandpic}/>
 
-      <button onClick={handleRandomClick}>generate a new artist</button>
+      <button className={styles.button} onClick={handleRandomClick}>Next Artist</button>
 
       <p className={styles.scores1}> Rolling Stones Rank</p>
       <p className={styles.scores}> {artistData.RollingStoneMagazineRank}</p>
