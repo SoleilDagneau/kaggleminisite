@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'rickson';
+    src: url('/rickson.ttf') format('truetype')
+        url('/bebas.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  

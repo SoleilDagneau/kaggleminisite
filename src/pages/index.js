@@ -33,7 +33,9 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div className={styles.container}>
-        <button onClick={handleClick}>Show data</button>
+          <div className={styles.title1}>The Rolling Stones Magazine </div>
+          <div className={styles.scores3}>Discover the Rolling Stones 100 Greatest Musician Artists of All Time</div>
+        <button className={styles.button} onClick={handleClick}>Discover an Artist</button>
         {showData && (
   <div>
     <div>{showData.Artist}</div>
