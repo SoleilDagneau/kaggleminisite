@@ -32,7 +32,7 @@
 .title1 {
   font-family: 'rickson', sans-serif;
   color: white;
-  font-size: 40px;
+  font-size: 35px;
   text-align: center;
   line-height: 60px;
 
@@ -41,7 +41,7 @@
 .scores3 {
   font-family: 'bebas', sans-serif;
   color: white;
-  font-size: 25px;
+  font-size: 18px;
   text-transform: uppercase;
   padding: 20px;
   text-align: center;
@@ -63,6 +63,7 @@
   font-size: 20px;
   text-transform: uppercase;
   padding-bottom: 20px;
+  text-align: center;
 }
 
 .bandpic {
@@ -74,7 +75,7 @@
 }
 
 .button {
-  width: 150px;
+  width: 180px;
   height: 40px;
   background-color: #ef233c;
   font-family: 'bebas', sans-serif;
@@ -83,4 +84,6 @@
   margin-bottom: 20px;;
 }
 
-
+.logo {
+  padding-bottom: 10px;
+}

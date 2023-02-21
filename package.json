@@ -7,8 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test:e2e": "jest --config=jest-playwright.config.js",
-    "test:e2e:debug": "node --inspect-brk $(which jest) --runInBand --config=jest-playwright.config.js"
+    "test:e2e": "playwright test"
   },
   "dependencies": {
     "@next/font": "13.1.6",
@@ -17,6 +16,6 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "playwright": "^1.30.0"
+    "@playwright/test": "^1.30.0"
   }
 }
